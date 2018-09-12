@@ -40,6 +40,7 @@ def b():
     <a href="/sida2?bokstafur=a"> <img src="myndir/a.jpg"> </a>
     <a href="/sida2?bokstafur=b"> <img src="myndir/b.jpg"> </a>
     <a href="/sida2?bokstafur=c"> <img src="myndir/c.jpg"> </a>
+    <a href="/"> Forsíða </a>
     """
 @route("/sida2")
 def page():
